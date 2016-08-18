@@ -1,0 +1,15 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/cristian/.nvm/versions/node/v6.3.0/bin/node /home/cristian/.nvm/versions/node/v6.3.0/bin/firebase serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     linux
+[debug] Node Version: v6.3.0
+[debug] Time:         Thu Aug 18 2016 14:47:15 GMT-0300 (ART)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/cristian/Projects/friendlychat/web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
+[info] Shutting down...
